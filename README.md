@@ -2,7 +2,7 @@
 This project was created by Oleksii Pasha as a prototype. It features authentication using a Firebase Google Account and includes a Todo list implemented with CRUD operations.
 
 ## Project Overview
-Додаток був створений на основі react та typescript, а також містить власноруч створений хук local storage. 
+Додаток був створений на основі react та typescript для забезпечення сильної типізації, а також містить власноруч створений хук local storage. 
 
 ## Features
 - ⚡ Authentication with Firebase Google Account
